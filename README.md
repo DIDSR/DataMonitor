@@ -1,3 +1,10 @@
+o This repository has been archived and is no longer maintained.
+
+o The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+
+o It should not be used in production systems.
+
+
 # DataMonitor: Tool for Out-of-Distribution Detection and Data Drift Monitoring
 
 Welcome to the **DataMonitor** documentation. This tool is designed for:
